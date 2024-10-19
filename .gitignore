@@ -1,0 +1,19 @@
+.idea
+.vscode
+
+# Ignorar pastas do Windows
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+NTUSER.*
+*.exe
+*.msi
+*.bin
+
+# Ignorar pastas específicas
+Downloads/
+AppData/
+
+.vscode/
+.android/
